@@ -11,6 +11,6 @@ I build AI-native software with a clear philosophy:
 - 🏗️ Full-stack, AI-first - architecture before code
 - 🔧 Governed AI workflows - the AI writes, but respects patterns and business logic
 
-**Stack:** `TypeScript` `React` `Next.js` `Python` `FastAPI` `PostgreSQL` `Tailwind`
+I work across the whole AI stack - from models (cloud and local) to backend, edge and infra.
 
 🌐 [esse.dev](https://esse.dev) · ✉️ hello@esse.dev · 💼 [LinkedIn](https://www.linkedin.com/in/simonesalerno)
