@@ -2,7 +2,7 @@
 
 [EN](./README.md) · IT
 
-**AI Engineer @ [Yellow Tech](https://yellow.camp)** - Milano
+**AI Engineer @ [Yellow Tech](https://www.linkedin.com/company/yellow-tech-ai/)** - Milano
 
 Costruisco software AI-native con una filosofia precisa:
 **l'umano definisce i confini, l'AI esegue e itera, il sistema scala senza debito tecnico.**

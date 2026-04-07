@@ -2,7 +2,7 @@
 
 EN · [IT](./README.it.md)
 
-**AI Engineer @ [Yellow Tech](https://yellow.camp)** - Milan
+**AI Engineer @ [Yellow Tech](https://www.linkedin.com/company/yellow-tech-ai/)** - Milan
 
 I build AI-native software with a clear philosophy:
 **humans set the guardrails, AI executes and iterates, the system scales without tech debt.**
